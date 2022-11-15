@@ -1,0 +1,36 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #749f82;
+}
+
+nav {
+  background-color: #a8e890;
+}
+
+nav a {
+  color: #425f57 !important;
+}
+
+nav a:hover {
+  color: #cfff8d !important;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.wrapper {
+  margin-top: 25vh;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+.btn-warning {
+  background-color: #a8e890;
+}
